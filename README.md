@@ -69,6 +69,8 @@ Enter an empty property name when done.
 
 ### Start up our rest api
 
+Server our content on: http://localhost:3000/explorer
+
 ``` shell
 node .
 ```
@@ -76,4 +78,15 @@ node .
 
 ## Result
 
+The exposed landing page
+![alt text](https://raw.githubusercontent.com/jkbngl/loopback/master/images/landing_page.png)
+
+The main page of our model
+![alt text](https://raw.githubusercontent.com/jkbngl/loopback/master/images/main_page.png	)
+
+The result shown in the WEB-UI
+![alt text](https://raw.githubusercontent.com/jkbngl/loopback/master/images/result.png)
+
+The result shown as json reult
+![alt text](https://raw.githubusercontent.com/jkbngl/loopback/master/images/production_result.png)
 
