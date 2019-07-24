@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "tpDS": {
+    "host": "192.168.0.20",
+    "port": 5432,
+    "url": "postgres://postgres:test@192.168.0.20/postgres",
+    "database": "postgres",
+    "password": "test",
+    "name": "tpDS",
+    "user": "postgres",
+    "connector": "postgresql"
+  }
+}

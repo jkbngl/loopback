@@ -1,0 +1,9 @@
+nginx:
+  image: musketskier/loopback:v2
+  container_name: loopback
+  ports:
+    - 3000:3000
+  
+  command: [/bin/bash']
+
+#docker run -i -t -p 3000:3000 -name loopback musketskier/loopback:v2 /bin/bash
