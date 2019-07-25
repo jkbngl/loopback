@@ -5,8 +5,7 @@
 ### Create a new Project
 
 ``` shell
-mkdir test_rest_api
-slc loopback test_rest_api
+slc loopback test_rest_api # Note, the creation of the project must happen in an empty directory
 cd test_rest_api
 ```
 
